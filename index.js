@@ -3,7 +3,7 @@ var path = require('path');
 var fs = require('fs');
 
 function getLakes(callback) {
-    var directory = path.join(__dirname, 'landmarks/');
+    var directory = path.join(__dirname, 'osm-landmarks/');
     var file = path.join(directory, 'lakes.csv');
 
     csv.parse(fs.readFileSync(file), function (error, rows) {

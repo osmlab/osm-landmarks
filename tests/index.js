@@ -5,7 +5,7 @@ var fs = require('fs');
 var getLakes = require('..').getLakes;
 
 test('Test format of csv files', function(t) {
-    var dirname = path.join(__dirname, '../landmarks/');
+    var dirname = path.join(__dirname, '../osm-landmarks/');
     var files = fs.readdirSync(dirname);
 
     // Filter out only csv files in the directory.
