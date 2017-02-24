@@ -2,6 +2,7 @@ var test = require('tape');
 var csv = require('csv');
 var path = require('path');
 var fs = require('fs');
+var getLakes = require('..').getLakes;
 
 test('Test format of csv files', function(t) {
     var dirname = path.join(__dirname, '../landmarks/');
@@ -20,4 +21,11 @@ test('Test format of csv files', function(t) {
         });
     });
     t.end();
+});
+
+test('Test getLakes', function (t) {
+    getLakes(function (error, lakes) {
+        t.true(lakes.length > 0, 'Read ' + lakes.length + ' lakes');
+        t.end();
+    });
 });
