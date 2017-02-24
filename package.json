@@ -1,0 +1,31 @@
+{
+  "name": "osm-landmarks",
+  "version": "0.1.0",
+  "description": "Store of important landmarks on OpenStreetMap",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "tape tests/**/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osmlab/osm-landmarks.git"
+  },
+  "keywords": [
+    "osm"
+  ],
+  "author": "Mapbox",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/osmlab/osm-landmarks/issues"
+  },
+  "homepage": "https://github.com/osmlab/osm-landmarks",
+  "dependencies": {
+    "csv": "^1.1.1"
+  },
+  "devDependencies": {
+    "tape": "^4.6.3"
+  }
+}
