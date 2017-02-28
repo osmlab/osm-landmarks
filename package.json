@@ -1,6 +1,6 @@
 {
   "name": "osm-landmarks",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Store of important landmarks on OpenStreetMap",
   "main": "index.js",
   "directories": {
