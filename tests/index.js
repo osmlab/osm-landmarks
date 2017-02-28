@@ -4,6 +4,7 @@ var path = require('path');
 var fs = require('fs');
 var getLakes = require('..').getLakes;
 var getAirports = require('..').getAirports;
+var getRestaurants = require('..').getRestaurants;
 
 test('Test format of csv files', function(t) {
     var dirname = path.join(__dirname, '../osm-landmarks/');
@@ -34,6 +35,13 @@ test('Test getLakes', function (t) {
 test('Test getAirports', function (t) {
     getAirports(function (error, airports) {
         t.true(airports.length > 0, 'Read ' + airports.length + ' airports');
+        t.end();
+    });
+});
+
+test('Test getRestaurants', function (t) {
+    getRestaurants(function (error, restaurants) {
+        t.true(restaurants.length > 0, 'Read ' + restaurants.length + ' restaurants');
         t.end();
     });
 });
