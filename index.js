@@ -2,9 +2,9 @@ var csv = require('csv');
 var path = require('path');
 var fs = require('fs');
 
-function getLakes(callback) {
+function getLandmarks(landmark, callback) {
     var directory = path.join(__dirname, 'osm-landmarks/');
-    var file = path.join(directory, 'lakes.csv');
+    var file = path.join(directory, landmark + '.csv');
 
     csv.parse(fs.readFileSync(file), function (error, rows) {
         if (error) callback(error, []);
@@ -12,6 +12,8 @@ function getLakes(callback) {
     });
 }
 
+
+
 module.exports = {
-    'getLakes': getLakes
+    'getLandmarks': getLandmarks
 };

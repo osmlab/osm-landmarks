@@ -2,7 +2,7 @@ var test = require('tape');
 var csv = require('csv');
 var path = require('path');
 var fs = require('fs');
-var getLakes = require('..').getLakes;
+var getLandmarks = require('..').getLandmarks;
 
 test('Test format of csv files', function(t) {
     var dirname = path.join(__dirname, '../osm-landmarks/');
@@ -24,8 +24,15 @@ test('Test format of csv files', function(t) {
 });
 
 test('Test getLakes', function (t) {
-    getLakes(function (error, lakes) {
+    getLandmarks('lakes', function (error, lakes) {
         t.true(lakes.length > 0, 'Read ' + lakes.length + ' lakes');
+        t.end();
+    });
+});
+
+test('Test getRestaurants', function (t) {
+    getLandmarks('restaurants', function (error, restaurants) {
+        t.true(restaurants.length > 0, 'Read ' + restaurants.length + ' lakes');
         t.end();
     });
 });
