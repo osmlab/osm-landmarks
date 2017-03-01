@@ -23,7 +23,12 @@
   },
   "homepage": "https://github.com/osmlab/osm-landmarks",
   "dependencies": {
-    "csv": "^1.1.1"
+    "csv": "^1.1.1",
+    "d3-queue": "^3.0.3",
+    "minimist": "^1.2.0",
+    "query-overpass": "^1.1.3",
+    "tile-reduce": "^3.1.1",
+    "util": "^0.10.3"
   },
   "devDependencies": {
     "tape": "^4.6.3"
