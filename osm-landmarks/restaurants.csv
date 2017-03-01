@@ -151,7 +151,6 @@ id,type,name,WikiLabel,Wikidata Id,Levenshtein Distance
 300110173,way,Martín Berasategui,Martin Berasategi,Q12263146,2
 602765935,node,Chalet de la Forêt,Le Chalet de la Forêt,Q2581585,3
 411458802,node,La Villa Lorraine,Villa Lorraine,Q20747687,3
-1489630655,node,H&M,MR,Q23766764,3
 64030661,way,Le Moulin de Mougins,Moulin de Mougins,Q3224809,3
 4527150298,node,Le Taillevent,Taillevent,Q2896230,3
 251474108,node,La Tour d'Argent,Tour d'Argent,Q1338260,3
@@ -160,48 +159,15 @@ id,type,name,WikiLabel,Wikidata Id,Levenshtein Distance
 1701443585,node,Kastanjehof,De Kastanjehof,Q5244466,3
 1708258878,node,Kersentuin,De Kersentuin,Q5244469,3
 644036176,node,De Wilgenplas,Wilgenplas,Q8002053,3
-3678642511,node,Guria,Europa,Q21572112,3
-445685395,node,Oasis,Rasoi,Q7295148,3
-4015736091,node,Gotan,Corton,Q5173371,3
 1392916812,node,Le château du Mylord,Château du Mylord,Q2083262,4
 132150079,way,Hof van Cleve ★★★,Hof van Cleve,Q2629148,4
-570523044,node,Envoy,Eipic,Q21152369,4
 2929020018,node,Nihon Ryouri RyuGin,Nihonryori Ryugin,Q7034331,4
-6942286,way,Oostwal,Cordial,Q5169970,4
 371759183,way,Deijsselhof,De Deyselhof,Q18708262,4
 692006707,node,Lindehof,De Lindenhof,Q2199089,4
 1433961962,node,De Zweth,De Zwethheul,Q2804895,4
-427502345,way,Cool,Joelia,Q23010011,4
-210216041,way,Wox,Saur,Q2388809,4
-4148721106,node,Jonker,Sonoy,Q7562261,4
-3579525484,node,Z,Zarzo,Q22343504,4
-355416909,node,Cellar Gascon,Club Gascon,Q5136253,4
 1997496741,node,The Stagg,The Stagg Inn,Q7766177,4
 4014663245,node,West House,The West House,Q7774275,4
-4013660827,node,Restaurant Umami,Restaurant Rebel,Q23908783,5
 1395868622,node,La Chèvre d'Or,Chevre d'or,Q2971194,5
 1395868622,node,La Chèvre d'Or,Chevre d'or,Q2971194,5
 1678007548,node,Le Dôme,Le Dôme Café,Q1025695,5
-1477211194,node,Rouge,Aniar,Q4764437,5
-1741827384,node,Sultana,Adrian,Q18350305,5
-1974983358,node,Marqt,Amarone,Q4740324,5
-3459827592,node,Runnerz,Auberge,Q20871303,5
-3459827592,node,Runnerz,Auberge,Q20871303,5
-3666474143,node,Chiparos,Chagall,Q5066836,5
-277340596,way,De Ophir,De Put,Q2283768,5
-278865769,way,De Wiemsel,De Wanne,Q5244837,5
-45765061,node,N201,Lakes,Q15241369,5
 7221522,way,Wolfslaardreef,Wolfslaar,Q17300203,5
-4532433427,node,roure,Àbac,Q16249980,5
-756740832,node,Ainhoa,Arzak,Q4802737,5
-558723293,node,Maman,Nerua,Q21571760,5
-3512716807,node,Santander,Sant Pau,Q3826087,5
-2326472799,node,Sabeco,Zarate,Q21561336,5
-276848929,node,Edsbacka bistro,Edsbacka krog,Q5340270,5
-570523045,node,Yoke,Deanes,Q2624837,5
-385484284,node,Dexter's,Harvey's,Q5676935,5
-291333397,way,Hobbs,Hibiscus,Q5750787,5
-425341692,way,Holbeck Lane,Holbeck Ghyll,Q5878607,5
-59267639,way,Northcote Road,Northcote Manor,Q7057767,5
-252251159,way,Waitrose,Pétrus,Q7264737,5
-4565955202,node,ALIFE,Wd~50,Q1255057,5
