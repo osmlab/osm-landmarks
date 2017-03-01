@@ -21,7 +21,13 @@ function getAirports(callback) {
     return getRows(file, callback);
 }
 
+function getRestaurants(callback) {
+    var file = path.join(directory, 'restaurants.csv');
+    return getRows(file, callback);
+}
+
 module.exports = {
     'getLakes': getLakes,
-    'getAirports': getAirports
+    'getAirports': getAirports,
+    'getRestaurants': getRestaurants
 };

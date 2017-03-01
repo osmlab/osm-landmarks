@@ -1,0 +1,173 @@
+id,type,name,WikiLabel,Wikidata Id,Levenshtein Distance
+133614910,way,Arenberg,Arenberg,Q15872666,0
+1931417601,node,Dôme,Dôme,Q2337930,0
+727496898,node,Nuance,Nuance,Q2355180,0
+2696834375,node,The Jane,The Jane,Q22980627,0
+2713721666,node,Clou,Clou,Q22998656,0
+1852011660,node,Kadeau Bornholm,Kadeau Bornholm,Q22980120,0
+2713759585,node,Kadeau København,Kadeau København,Q23010103,0
+624518502,node,Kiin Kiin,Kiin Kiin,Q22983542,0
+2713744916,node,Marchal,Marchal,Q23010101,0
+279691266,node,Noma,Noma,Q48592,0
+2601269021,node,Studio,Studio,Q23013754,0
+4119844241,node,Substans,Substans,Q22988335,0
+2387678738,node,L'Ambroisie,L'Ambroisie,Q6455533,0
+913936511,node,L'Arpège,L'Arpège,Q6455598,0
+255060753,node,L'Astrance,L'Astrance,Q6455614,0
+1291119341,node,Le Chateaubriand,Le Chateaubriand,Q6506699,0
+97577846,way,Maison Pic,Maison Pic,Q6737046,0
+338920695,node,Tantris,Tantris,Q876820,0
+1752476235,node,Bon Appétit,Bon Appétit,Q2185528,0
+1540695226,node,Campagne,Campagne,Q15207004,0
+576111231,node,L'Ecrivain,L'Ecrivain,Q6455655,0
+231245954,way,Restaurant Patrick Guilbaud,Restaurant Patrick Guilbaud,Q2536736,0
+2361952103,node,Enoteca Pinchiorri,Enoteca Pinchiorri,Q1405579,0
+1547765174,node,Osteria Francescana,Osteria Francescana,Q2419971,0
+55164849,way,Aan de Poel,Aan de Poel,Q2460503,0
+894553837,node,Auguste,Auguste,Q18654980,0
+2822703678,node,Beluga,Beluga,Q1949989,0
+4402353006,node,Blok's Restaurant,Blok's Restaurant,Q21091929,0
+2795530710,node,Brienen aan de Maas,Brienen aan de Maas,Q4967051,0
+3741469446,node,Calla's,Calla's,Q13448839,0
+4162314589,node,Ciel Bleu,Ciel Bleu,Q5119566,0
+737990026,node,Corona,Corona,Q5172117,0
+83313475,node,De Beukenhof,De Beukenhof,Q5244251,0
+271056651,way,De Bokkedoorns,De Bokkedoorns,Q3462152,0
+2338484627,node,De Bokkepruik,De Bokkepruik,Q5244262,0
+1714978683,node,De Echoput,De Echoput,Q2026348,0
+2757271006,node,De Fuik,De Fuik,Q5244366,0
+2627284816,node,De Gieser Wildeman,De Gieser Wildeman,Q15213226,0
+277414551,way,De Groene Lantaarn,De Groene Lantaarn,Q2118637,0
+2774758051,node,De Karpendonkse Hoeve,De Karpendonkse Hoeve,Q5244465,0
+45345559,node,De Kieviet,De Kieviet,Q1918775,0
+3332776408,node,De Kromme Watergang,De Kromme Watergang,Q2304666,0
+292384925,node,De Leuf,De Leuf,Q2445128,0
+1333931642,node,De Librije,De Librije,Q2173549,0
+295662901,way,De Lindehof,De Lindehof,Q5244584,0
+321558276,node,De Moerbei,De Moerbei,Q1823596,0
+321558276,node,De Moerbei,De Moerbei,Q1823596,0
+2836878874,node,De Molen,De Molen,Q15213237,0
+2836878874,node,De Molen,De Molen,Q15213237,0
+169465382,way,De Nederlanden,De Nederlanden,Q2285790,0
+2068633975,node,De Saffraan,De Saffraan,Q5244723,0
+3097288735,node,De Swaen,De Swaen,Q2385913,0
+1710133990,node,De Vlindertuin,De Vlindertuin,Q2348995,0
+2981455857,node,Halvemaan,Halvemaan,Q18348115,0
+2831375765,node,Herberg Onder de Linden,Herberg Onder de Linden,Q171475,0
+1961545524,node,Het Koetshuis,Het Koetshuis,Q2615946,0
+2813692742,node,Kasteel Wittem,Kasteel Wittem,Q2521084,0
+2813692742,node,Kasteel Wittem,Kasteel Wittem,Q2521084,0
+4596341094,node,Koriander,Koriander,Q6432265,0
+2509618306,node,Le Restaurant,Le Restaurant,Q2521848,0
+662547234,node,Librije's Zusje,Librije's Zusje,Q6542761,0
+2825097443,node,Mijn Keuken,Mijn Keuken,Q2004803,0
+2825097443,node,Mijn Keuken,Mijn Keuken,Q2004803,0
+1130865567,node,Muller,Muller,Q15260209,0
+663373762,node,Old Dutch,Old Dutch,Q2195747,0
+1530094872,node,Oud Sluis,Oud Sluis,Q5943807,0
+604054409,node,Oudt Leyden,Oudt Leyden,Q2569087,0
+604054409,node,Oudt Leyden,Oudt Leyden,Q2569087,0
+54088307,way,Parkheuvel,Parkheuvel,Q1814421,0
+413037474,node,Prinses Juliana,Prinses Juliana,Q7245235,0
+4680368296,node,Pure C,Pure C,Q2005773,0
+2825646096,node,Restaurant Kasteel Heemstede,Restaurant Kasteel Heemstede,Q14256548,0
+1339610641,node,Ron Gastrobar,Ron Gastrobar,Q22950262,0
+6314550,way,Schuddebeurs,Schuddebeurs,Q17344909,0
+6314550,way,Schuddebeurs,Schuddebeurs,Q17344909,0
+1434839255,node,Seinpost,Seinpost,Q7446860,0
+2877925106,node,Spandershoeve,Spandershoeve,Q7573075,0
+288896159,way,Valuas,Valuas,Q2049697,0
+2711568688,node,Villa Rozenrust,Villa Rozenrust,Q7930483,0
+4571078874,node,Vinkeles,Vinkeles,Q17195570,0
+79329427,way,Vreugd en Rust,Vreugd en Rust,Q7942714,0
+471037996,node,Wollerich,Wollerich,Q8030339,0
+2392586687,node,Maaemo,Maaemo,Q6721016,0
+3196842883,node,Aizian,Aizian,Q21561334,0
+4697479760,node,Etxanobe,Etxanobe,Q21571745,0
+2160061635,node,Kokotxa,Kokotxa,Q21572088,0
+32982691,way,Mugaritz,Mugaritz,Q2920332,0
+398200422,way,Champany Inn,Champany Inn,Q5069929,0
+385484295,node,Chez Bruce,Chez Bruce,Q5094644,0
+299500276,way,Dinner by Heston Blumenthal,Dinner by Heston Blumenthal,Q5278421,0
+177959405,way,Gravetye Manor,Gravetye Manor,Q5597939,0
+699779199,node,Hakkasan,Hakkasan,Q5640540,0
+1748426083,node,Hambleton Hall,Hambleton Hall,Q5644230,0
+1755282513,node,L'Enclume,L'Enclume,Q6455662,0
+279541961,way,L'Escargot,L'Escargot,Q6455693,0
+2788380627,node,L'Ortolan,L'Ortolan,Q6455839,0
+209271385,way,La Trompette,La Trompette,Q14955163,0
+2222414417,node,Le Champignon Sauvage,Le Champignon Sauvage,Q6506674,0
+1342105552,node,Le Gavroche,Le Gavroche,Q14955150,0
+699848874,node,Lima,Lima,Q15242357,0
+340427515,way,Murano,Murano,Q16895543,0
+1121355478,node,Ockenden Manor,Ockenden Manor,Q7076537,0
+3626668563,node,Ox,Ox,Q21152570,0
+95199889,way,Savoy Hotel,Savoy Hotel,Q746639,0
+95199889,way,Savoy Hotel,Savoy Hotel,Q746639,0
+97175538,way,St. John,St. John,Q7588869,0
+28151866,node,The Box Tree,The Box Tree,Q7719582,0
+26706894,way,The Dorchester,The Dorchester,Q2749941,0
+60491186,node,The Fat Duck,The Fat Duck,Q2300919,0
+214810835,way,The Hand & Flowers,The Hand & Flowers,Q7738706,0
+60491187,node,The Hinds Head,The Hinds Head,Q7739721,0
+573453336,node,The Kitchin,The Kitchin,Q7744782,0
+3569341193,node,The Ledbury,The Ledbury,Q7746592,0
+434543992,node,The Waterside Inn,The Waterside Inn,Q7773745,0
+3497519884,node,Whatley Manor,Whatley Manor,Q7991764,0
+338952744,node,Yauatcha,Yauatcha,Q8050323,0
+3404295893,node,Zafferano,Zafferano,Q8064290,0
+3502294529,node,Alinea,Alinea,Q4726773,0
+3502294527,node,Boka,Boka,Q16255079,0
+3932353661,node,Chef's Table at Brooklyn Fare,Chef's Table at Brooklyn Fare,Q5089487,0
+2723661031,node,Daniel,Daniel,Q5216318,0
+3932353662,node,Eleven Madison Park,Eleven Madison Park,Q5359767,0
+3932353663,node,Le Bernardin,Le Bernardin,Q6506539,0
+1219353016,node,Manresa,Manresa,Q6751531,0
+3932353664,node,Masa,Masa,Q12408773,0
+3932353665,node,Per Se,Per Se,Q1255039,0
+2483716076,node,Peter Luger Steak House,Peter Luger Steak House,Q586599,0
+4668671254,node,Picasso,Picasso,Q16898303,0
+3142935176,node,Sushi of Gari,Sushi of Gari,Q7648933,0
+257572891,way,Comme Chez Soi,Comme chez Soi,Q2560211,1
+638214585,node,La Mère Brazier,La mère Brazier,Q6466277,1
+1454687141,node,Le grand Véfour,Le Grand Véfour,Q2896854,1
+292243319,way,Dunderry lodge,Dunderry Lodge,Q3284227,1
+715596559,node,Au Coin Des Bons Enfants,Au Coin des Bons Enfants,Q2215995,1
+275371594,way,Chateau Neercanne,Château Neercanne,Q1630851,1
+4381907392,node,t Amsterdammertje,t Amsterdammertje,Q7477690,1
+2854634446,node,t Nonnetje,t Nonnetje,Q15177455,1
+1950907244,node,t Veerhuis,t Veerhuis,Q2629885,1
+296050701,node,Akelarre,Akelare,Q4700586,1
+349340728,way,L'Atelier de Joel Robuchon,L'Atelier de Joël Robuchon,Q6455618,1
+3009980832,node,la Bécasse,La Bécasse,Q6461411,1
+138339566,way,Pied a Terre,Pied à Terre,Q7191475,1
+2226852197,node,Jean-Georges,Jean Georges,Q2604229,1
+597452452,node,Le Crocodile,Au Crocodile,Q4818940,2
+4574227869,node,&Samhoud Places,&samhoud places,Q4540372,2
+761683002,node,Katse Veer,Katseveer,Q2724860,2
+761683002,node,Katse Veer,Katseveer,Q2724860,2
+307653623,way,Brouwerskolkje,t Brouwerskolkje,Q2040970,2
+458745038,node,El Bulli,elBulli,Q917258,2
+300110173,way,Martín Berasategui,Martin Berasategi,Q12263146,2
+602765935,node,Chalet de la Forêt,Le Chalet de la Forêt,Q2581585,3
+411458802,node,La Villa Lorraine,Villa Lorraine,Q20747687,3
+64030661,way,Le Moulin de Mougins,Moulin de Mougins,Q3224809,3
+4527150298,node,Le Taillevent,Taillevent,Q2896230,3
+251474108,node,La Tour d'Argent,Tour d'Argent,Q1338260,3
+4200610006,node,Le Cheval Blanc,Cheval Blanc,Q3894156,3
+4200610006,node,Le Cheval Blanc,Cheval Blanc,Q3894156,3
+1701443585,node,Kastanjehof,De Kastanjehof,Q5244466,3
+1708258878,node,Kersentuin,De Kersentuin,Q5244469,3
+644036176,node,De Wilgenplas,Wilgenplas,Q8002053,3
+1392916812,node,Le château du Mylord,Château du Mylord,Q2083262,4
+132150079,way,Hof van Cleve ★★★,Hof van Cleve,Q2629148,4
+2929020018,node,Nihon Ryouri RyuGin,Nihonryori Ryugin,Q7034331,4
+371759183,way,Deijsselhof,De Deyselhof,Q18708262,4
+692006707,node,Lindehof,De Lindenhof,Q2199089,4
+1433961962,node,De Zweth,De Zwethheul,Q2804895,4
+1997496741,node,The Stagg,The Stagg Inn,Q7766177,4
+4014663245,node,West House,The West House,Q7774275,4
+1395868622,node,La Chèvre d'Or,Chevre d'or,Q2971194,5
+1395868622,node,La Chèvre d'Or,Chevre d'or,Q2971194,5
+1678007548,node,Le Dôme,Le Dôme Café,Q1025695,5
+7221522,way,Wolfslaardreef,Wolfslaar,Q17300203,5
