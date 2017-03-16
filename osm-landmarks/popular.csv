@@ -1,0 +1,785 @@
+type,id,name
+way,100596043,Sheikh Zayed Mosque
+way,30394921,Emirates Palace
+way,227206840,Yas Waterworld
+node,4332654501,Qasr al-Hosn
+node,2102760463,Emirates National Auto Museum
+way,185409279,South Australian Museum
+way,4681536,Adelaide Oval
+node,1960121476,Migration Museum
+way,50550960,Adelaide Zoo
+way,81798898,Botanic Park
+node,849500958,Carrick Hill
+way,14306406,Adelaide Botanic Garden
+relation,6577680,Van Gogh Museum
+way,44508814,Van Gogh Museum
+way,29989787,Rijksmuseum
+node,291660674,Rijksmuseum
+way,94756489,Dam Square
+relation,5456455,Dam Square
+node,2817515795,Heineken Experience
+way,26658363,Begijnhof
+relation,3604837,The National Maritime Museum
+way,363095473,Museum of Anatolian Civilizations
+way,72079962,Atakule
+way,10711293,Gençlik Parkı
+way,70284588,Acropolis Museum
+way,10973689,Parthenon
+node,952120095,Plaka
+relation,2828,National Archaeological Museum
+way,23182661,Syntagma Square
+way,63765671,Temple of Olympian Zeus
+node,2096080283,Monastiraki
+relation,3000500,Panathenaic Stadium
+way,270358205,World of Coca-Cola
+way,28912094,Centennial Olympic Park
+node,3424138129,Centennial Olympic Park
+way,41439893,CNN Center
+way,28961738,High Museum of Art
+way,208355446,Fox Theatre
+way,173532785,Martin Luther King Jr. National Historic Site
+way,470898408,Martin Luther King Jr. National Historic Site
+node,2661489008,College Football Hall of Fame
+way,260629516,College Football Hall of Fame
+node,3490831015,National Center for Civil and Human Rights
+way,317976752,National Center for Civil and Human Rights
+way,27442711,Barton Springs Pool
+way,27397820,Bullock Texas State History Museum
+node,356700647,Mount Bonnell
+way,313444169,Zilker Botanical Garden
+node,345558969,Lake Austin
+node,356749100,Lake Austin
+node,2033888905,Baghdad Zoo
+way,4073844,Tahrir Square in Baghdad
+way,191813517,Fort Fincastle
+way,302015352,Fort Charlotte
+node,4360690096,National Art Gallery of The Bahamas
+node,1313490625,Castaway Cay
+node,821908154,Dean's Blue Hole
+way,371290296,Government House
+way,191808714,Fort Montagu
+relation,1116862,Fort McHenry
+way,138488338,American Visionary Art Museum
+node,4590173181,Walters Art Museum
+way,463790159,Walters Art Museum
+way,337697136,Port Discovery
+relation,2610758,Baltimore Museum of Art
+way,138495209,Baltimore Museum of Industry
+node,1080111741,Geppi's Entertainment Museum
+node,2473631629,ISKCON Temple Bangalore
+way,29459362,ISKCON Temple Bangalore
+way,285254382,ISKCON Temple Bangalore
+relation,5284317,Vidhana Soudha
+way,52032475,Visvesvaraya Industrial and Technological Museum
+way,306788563,Nandi Temple
+node,677286789,Gavi Gangadhareshwara Temple
+way,46673786,St. Mary's Basilica
+way,400483216,St. Mary's Basilica
+way,359086841,Sagrada Família
+node,3397396652,Sagrada Família
+node,4735200560,Sagrada Família
+node,4553142274,Sagrada Família
+node,2712961128,Park Güell
+way,124190212,Casa Milà
+way,249401770,Casa Batlló
+way,283764560,Montjuïc
+way,34607291,Camp Nou
+way,289329578,Camp Nou
+relation,6288735,La Boqueria
+way,126334602,La Boqueria
+node,4200285494,La Boqueria
+node,4172419290,La Boqueria
+way,16628908,Passeig de Gràcia
+way,43995751,Museu Nacional d'Art de Catalunya
+relation,318110,Great Wall of China
+relation,941596,Tiananmen Square
+way,24824550,Temple of Heaven
+way,29228773,Summer Palace
+way,24825312,Yonghe Temple
+way,127590730,Badaling
+relation,4853823,Beihai Park
+node,273374649,Ming tombs
+node,339084979,Wangfujing
+node,1302986802,Wangfujing
+way,206004656,Brandenburg Gate
+node,3786417057,Brandenburg Gate
+way,330840129,Museum Island
+way,460812477,Berlin Wall
+way,313659704,Pergamon Museum
+node,417346627,Checkpoint Charlie
+way,172234733,Memorial to the Murdered Jews of Europe
+way,460812477,East Side Gallery
+way,460812530,East Side Gallery
+way,147855069,Spree
+way,24368681,Topography of Terror
+relation,131761,Alexanderplatz
+way,39374439,Zytglogge
+way,116254459,Tierpark Dählhölzli
+way,115207034,Tierpark Dählhölzli
+way,313876044,Bärengraben
+way,38351846,Nydeggkirche
+way,251236204,Käfigturm
+relation,2989491,Kindlifresserbrunnen
+way,29551702,Faneuil Hall
+way,29660091,New England Aquarium
+way,23787732,Boston Common
+way,8096030,Fenway Park
+relation,63938,Museum of Fine Arts
+node,368984462,Boston Harbor
+node,369033073,Boston Harbor
+way,25589604,Museum of Science
+way,29819001,Museum of Science
+node,367781417,Boston Museum
+node,367781336,Boston Museum
+way,29627269,Boston Museum
+way,240376785,Paul Revere House
+node,367781323,Paul Revere House
+way,50127172,Story Bridge
+relation,532905,South Bank Parklands
+node,2512789117,Wheel of Brisbane
+way,145079447,Queensland Art Gallery
+node,2512519061,Museum of Brisbane
+way,23633911,Teatro Colón
+way,114037319,Teatro Colón
+node,1236696803,Teatro Colón
+node,1550941125,Teatro Colón
+way,17492291,Plaza de Mayo
+way,334062440,Plaza de Mayo
+way,23621021,MALBA
+relation,2337969,Casa Rosada
+way,36883158,Parque Tres de Febrero
+way,54041468,Museo Nacional de Bellas Artes
+relation,3489873,Obelisco de Buenos Aires
+node,3950191364,Belgrano
+way,175564476,Belgrano
+way,4781015,Belgrano
+way,5090724,Australian War Memorial
+relation,3400115,Lake Burley Griffin
+way,27630963,Questacon
+way,208351859,National Gallery of Australia
+relation,5613553,National Museum of Australia
+way,30704870,National Portrait Gallery
+node,167206093,Mount Ainslie
+relation,1198,Old Parliament House
+way,174231925,Discovery Place
+node,1443710716,NASCAR Hall of Fame
+node,367912234,Mint Museum
+way,131139755,Mint Museum
+way,303566121,Carolinas Aviation Museum
+way,131139728,Bechtler Museum of Modern Art
+way,23888253,Millennium Park
+node,2250382928,Millennium Park
+way,24825568,Shedd Aquarium
+relation,1870546,Art Institute of Chicago
+way,58528804,Willis Tower
+node,2311635030,Willis Tower
+node,153654226,Magnificent Mile
+relation,5328430,Lincoln Park Zoo
+way,24826230,Museum of Science and Industry
+way,24825591,Adler Planetarium
+way,30173179,Franklin Park Conservatory
+node,1728595299,German Village
+way,30172881,Ohio Statehouse
+way,293476179,Columbus Museum of Art
+node,3071943557,Wexner Center for the Arts
+node,368153424,Ohio Theatre
+way,30302922,Ohio Village
+node,25074274,The Little Mermaid
+relation,6476337,Nyhavn
+node,723140554,National Museum of Denmark
+relation,1989714,National Museum of Denmark
+way,25524592,Rosenborg Castle
+way,45902030,Rundetaarn
+way,378106484,Amalienborg
+way,25992657,Christiansborg Palace
+relation,1322262,Ny Carlsberg Glyptotek
+node,1489671999,Strøget
+way,238241022,White House
+way,66418809,United States Capitol
+way,41965223,National Mall
+way,398769543,Lincoln Memorial
+node,2276095682,Lincoln Memorial
+way,66418787,National Museum of Natural History
+way,66418797,National Air and Space Museum
+relation,3374540,Washington Monument
+way,40941195,National Zoological Park
+node,367144590,International Spy Museum
+way,35205743,Denver Art Museum
+way,296804941,Downtown Aquarium
+way,34008043,Colorado State Capitol
+way,157656310,Denver Zoo
+node,965153814,Denver Zoo
+relation,4213870,Colorado Convention Center
+way,223802670,Denver Botanic Gardens
+node,1928670727,Denver Botanic Gardens
+node,2836996528,Wings Over the Rockies Air and Space Museum
+node,353915958,Belle Isle Park
+way,68957303,Charles H. Wright Museum of African American History
+way,68962399,Detroit Historical Museum
+way,107606561,Renaissance Center
+way,110555613,Ford Field
+node,1234943126,Greektown Casino Hotel
+way,68992675,Michigan Science Center
+way,12700546,Burj Al Arab
+way,47515677,The Dubai Mall
+way,175115425,Mall of the Emirates
+node,4314939993,Mall of the Emirates
+way,202638354,Madinat Jumeirah
+node,1155135639,Madinat Jumeirah
+node,4416344376,Madinat Jumeirah
+way,455295407,Madinat Jumeirah
+node,3722114050,Madinat Jumeirah
+node,3717446089,Dubai Museum
+way,41662413,Kilmainham Gaol
+way,231082847,National Museum of Ireland
+way,48806099,National Museum of Ireland
+node,140706284,National Museum of Ireland
+way,231082845,National Museum of Ireland
+relation,5982000,National Museum of Ireland
+way,43981182,St Patrick's Cathedral
+way,74600934,Chester Beatty Library
+way,76592311,Temple Bar
+node,2986012929,Temple Bar
+way,27291101,Christ Church Cathedral
+way,13993652,St Stephen's Green
+way,231082845,National Museum of Ireland – Archaeology
+relation,3235289,Croke Park
+node,31209291,Arthur's Seat
+way,99889822,HMY Britannia
+way,5209575,Royal Botanic Garden Edinburgh
+node,2113071246,Mary King's Close
+node,268408103,Camera Obscura
+way,22938944,Scottish National Gallery
+way,22938984,Scottish National Gallery
+way,73090302,Scottish National Gallery
+way,42407060,St Giles' Cathedral
+node,2914760336,Scotch Whisky Experience
+way,92017727,Wyler Aerial Tramway
+way,92017729,Wyler Aerial Tramway
+way,262818915,El Paso Museum of Art
+way,86811631,National Border Patrol Museum
+way,249041571,Chamizal National Memorial
+relation,3549806,El Paso Zoo
+node,356852189,Ysleta Mission
+node,368162729,Plaza Theatre
+node,2244694385,Reformation Wall
+way,8161109,Place du Bourg-de-Four
+way,26176780,Palace of Nations
+way,14364104,Musée Ariana
+node,151192185,Musée d'Art et d'Histoire
+way,15256715,Musée Rath
+way,260057822,Malecón
+way,288523229,Malecón
+way,288523234,Malecón
+way,4336787,Malecón
+way,288523249,Malecón
+way,288523571,Malecón
+way,23860185,Malecón
+way,23918434,Morro Castle
+way,23872614,Museum of the Revolution
+way,23872642,El Capitolio
+node,4426122393,El Capitolio
+relation,161506,Castillo de la Real Fuerza
+way,210728245,Finca Vigía
+way,23876175,José Martí Memorial
+way,23905470,Gran Teatro de La Habana
+relation,3531562,Colon Cemetery
+relation,2919121,Helsinki Senate Square
+way,36911729,Seurasaari
+relation,936105,Seurasaari
+way,15242921,Uspenski Cathedral
+way,8033120,Ateneum
+way,140867205,Linnanmäki
+relation,2919185,Market Square
+way,8042215,Kiasma
+relation,6635,National Museum of Finland
+way,122595198,Helsinki Central railway station
+way,391176774,Ocean Park Hong Kong
+node,2176979623,Ocean Park Hong Kong
+way,377094298,Hong Kong Disneyland
+relation,3676782,Lantau Island
+way,45659816,Tian Tan Buddha
+way,46486825,Po Lin Monastery
+way,23766488,Happy Valley Racecourse
+way,9561376,Lamma Island
+way,99148524,Hong Kong Museum of History
+node,4402847938,Hong Kong Museum of History
+way,227779865,Repulse Bay
+node,1126157594,Repulse Bay
+way,67136074,ʻIolani Palace
+node,4672738554,ʻIolani Palace
+way,51804371,USS Arizona Memorial
+node,1482687185,Hanauma Bay
+way,165627410,USS Missouri (BB-63)
+way,360437606,Bernice Pauahi Bishop Museum
+way,165627406,USS Bowfin
+way,61956399,National Memorial Cemetery of the Pacific
+node,367803935,Waikiki Aquarium
+way,218572753,Ala Moana Center
+way,162044417,Ala Moana Center
+node,3625356648,Pacific Aviation Museum Pearl Harbor
+way,233155533,Space Center Houston
+way,45776249,Children's Museum of Houston
+way,210993912,Children's Museum of Houston
+way,383573690,Downtown Aquarium
+way,87644297,Menil Collection
+way,51816626,Houston Zoo
+node,4289826721,Houston Zoo
+node,4289825199,Houston Zoo
+way,148087198,Bayou Bend Collection and Gardens
+way,103746858,Buffalo Bayou
+way,278552887,White River State Park
+way,113050097,Eiteljorg Museum of American Indians and Western Art
+relation,6268982,Indiana State Museum
+way,113050080,NCAA Hall of Champions
+way,113879534,Indianapolis Zoo
+node,4631081693,Indianapolis Zoo
+way,339773760,Soldiers' and Sailors' Monument
+way,113879541,White River Gardens
+way,335415778,Topkapı Palace
+way,303807317,Grand Bazaar
+way,180546853,Basilica Cistern
+way,23236783,Galata Tower
+way,24234905,Süleymaniye Mosque
+way,24826707,Dolmabahçe Palace
+relation,2791545,Golden Horn
+way,24234971,Spice Bazaar
+way,348479220,Museum of Science and History
+way,351464790,Jacksonville Zoo and Gardens
+way,348479221,Friendship Fountain
+node,358733662,Kingsley Plantation
+node,358737885,Big Talbot Island State Park
+way,326826328,Museum of Contemporary Art Jacksonville
+node,4340873689,Al-Shallal Theme Park
+node,4340811790,Fakieh Aquarium
+node,4663460290,Gold Reef City
+way,26352789,Constitution Hill
+way,23370079,Johannesburg Zoo
+node,1373730765,Johannesburg Zoo
+way,28048272,National Heroes Park
+way,293398704,Lime Cay
+node,290803586,Devon House
+way,339345041,Devon House
+way,183061148,100 Hope Road
+way,264543007,100 Hope Road
+way,467167144,Bukit Bintang
+way,438898246,Kuala Lumpur Bird Park
+way,244496785,Kuala Lumpur Tower
+node,1919710738,Kuala Lumpur Tower
+node,1456303681,Aquaria KLCC
+way,23069513,Merdeka Square
+way,244562541,Islamic Arts Museum Malaysia
+way,23768010,Sultan Abdul Samad Building
+way,23034336,Suria KLCC
+way,132157008,Fremont Street Experience
+way,135456188,Stratosphere Las Vegas
+way,206128504,Mob Museum
+way,108132918,Fremont Street
+way,266824889,Neon Museum
+way,24341353,Belém Tower
+way,47183897,Praça do Comércio
+node,2450391612,Praça do Comércio
+node,4379547131,Praça do Comércio
+way,96896573,Praça do Comércio
+way,55593971,Calouste Gulbenkian Museum
+way,230062385,Lisbon Oceanarium
+way,370870741,Tower of London
+node,691387453,Tower of London
+way,119789042,St Paul's Cathedral
+relation,5208404,Buckingham Palace
+way,153173958,Tower Bridge
+way,24951423,Tower Bridge
+way,364313092,Westminster Abbey
+node,1802652184,Big Ben
+relation,177044,British Museum
+relation,1567699,Palace of Westminster
+node,2250396691,London Dungeon
+relation,904705,Kensington Palace
+node,358824106,Griffith Park
+way,405141323,Hollywood Boulevard
+way,398194770,Hollywood Boulevard
+way,398048103,Hollywood Boulevard
+way,398048102,Hollywood Boulevard
+way,385648321,Hollywood Walk of Fame
+way,422130705,Griffith Observatory
+relation,6333150,Walt Disney Concert Hall
+way,358731585,Los Angeles County Museum of Art
+way,13307207,Rodeo Drive
+node,4400822289,Rodeo Drive
+way,24685850,Churchill Downs
+node,4215189315,Kentucky Derby Museum
+way,24050556,Louisville Zoo
+way,331282774,Kentucky Science Center
+way,334900781,Speed Art Museum
+relation,4731432,Speed Art Museum
+way,192573684,Senado Square
+way,64933974,Macau Tower
+way,192187333,A-Ma Temple
+way,192095917,The Venetian Macao
+way,46510080,Fortaleza do Monte
+way,192179996,Macau Science Center
+relation,2590433,Macau Science Center
+relation,4257072,Macau Fisherman's Wharf
+relation,2126909,Museo Nacional Del Prado
+way,158854571,Museo Nacional Del Prado
+relation,1213832,Museo Nacional Centro de Arte Reina Sofía
+relation,6432785,Temple of Debod
+way,155551743,Gran Vía
+way,32597088,Gran Vía
+way,254044768,Gran Vía
+way,4328841,Gran Vía
+node,4317899993,Puerta del Sol
+node,4332238489,Santiago Bernabéu Stadium
+way,131443347,Plaza de Cibeles
+way,27396510,Plaza de Cibeles
+way,89571506,San Agustin Church
+way,313940238,Manila Ocean Park
+way,29282233,Manila Ocean Park
+way,27086772,Quiapo Church
+way,331784458,Fort Santiago
+way,27275508,Rizal Shrine
+node,4179570154,San Sebastian Church
+way,119985329,San Sebastian Church
+way,331777144,Manila Cathedral
+relation,2913264,Star City
+way,103914569,Kaaba
+node,4417316245,Black Stone
+node,3732559985,Hira
+way,41447463,Hira
+way,22963283,Federation Square
+way,45422277,Royal Botanic Gardens
+node,907778370,Yarra River
+way,113434071,Queen Victoria Market
+way,25467961,Queen Victoria Market
+way,25467962,Queen Victoria Market
+way,27696944,National Gallery of Victoria
+way,210337258,Melbourne Cricket Ground
+way,26564392,Old Melbourne Gaol
+way,48531904,Puffing Billy Railway
+node,1433022620,Beale Street Historic District
+way,95132665,National Civil Rights Museum
+way,95141314,Sun Studio
+node,1103624379,Memphis Rock N' Soul Museum
+way,105087041,Memphis Zoo
+way,118647101,Memphis Pyramid
+node,368157053,Dixon Gallery and Gardens
+node,4527096790,Zócalo
+way,221909363,Zócalo
+way,157051087,Palacio de Bellas Artes
+relation,2355610,Frida Kahlo Museum
+relation,1918,Sforza Castle
+relation,6648223,Brera
+way,331883966,Galleria Vittorio Emanuele II
+node,1029667846,Pinacoteca di Brera
+way,27755927,Santa Maria delle Grazie
+relation,37717,Basilica di Sant'Ambrogio
+way,463529462,Piazza del Duomo
+way,115896315,Parco Sempione
+way,404140229,Parco Sempione
+way,46103655,San Maurizio al Monastero Maggiore
+way,53814592,Milwaukee Public Museum
+way,52040959,Milwaukee County Zoo
+node,4502593984,Mitchell Park Horticultural Conservatory
+way,51865486,Milwaukee Art Museum
+way,111981538,Pabst Mansion
+relation,6065634,Potawatomi Hotel & Casino
+way,68649538,Pabst Theater
+way,173559653,Basilica of St. Josaphat
+way,381257038,Villa Terrace Decorative Arts Museum
+way,4320792,Notre-Dame Basilica
+node,213716077,Montreal Museum of Fine Arts
+way,26699302,Old Montreal
+node,213716077,Old Montreal
+way,26417603,Old Montreal
+node,2517010971,Mount Royal
+node,437811971,Mount Royal
+node,300077244,Mount Royal
+relation,6275154,Saint Joseph's Oratory
+way,25899247,La Ronde
+relation,3030568,Saint Basil's Cathedral
+relation,1577673,Red Square
+relation,3334755,Bolshoi Theatre
+relation,1907261,Tretyakov Gallery
+relation,3330565,GUM
+node,268521606,VDNKh
+node,1067491057,VDNKh
+relation,4662750,VDNKh
+relation,2421978,Pushkin Museum
+node,674769829,Haji Ali Dargah
+node,2127352602,Elephanta Caves
+way,38718382,Girgaum Chowpatty
+node,3189375851,Nymphenburg Palace
+relation,4773564,Marienplatz
+node,2644689615,Marienplatz
+node,2644689616,Marienplatz
+way,23632546,Hofbräuhaus am Platzl
+relation,3866522,Deutsches Museum
+way,471620092,Deutsches Museum
+node,1413262577,Deutsches Museum
+node,3792432868,Viktualienmarkt
+node,1870741552,Olympiapark
+way,4431170,Allianz Arena
+way,123121774,Allianz Arena
+node,4350340889,Allianz Arena
+way,298266716,BMW Museum
+node,368157538,Ryman Auditorium
+way,130913353,Centennial Park
+way,334219850,The Hermitage
+node,1972138811,The Hermitage
+way,130905893,Frist Center for the Visual Arts
+way,465285666,Frist Center for the Visual Arts
+way,249147622,Tennessee State Capitol
+way,112916705,Bicentennial Capitol Mall State Park
+node,2945859686,India Gate
+node,2981346458,Humayun's Tomb
+node,2845364678,Lotus Temple
+way,400921719,Akshardham
+node,2450690119,Lodi Gardens
+way,80442502,Lodi Gardens
+way,111695183,Gurudwara Bangla Sahib
+node,308889041,Rashtrapati Bhavan
+way,34633854,Empire State Building
+relation,3698894,Metropolitan Museum of Art
+way,278346578,Museum of Modern Art
+way,66740720,Rockefeller Center
+node,4236846689,Rockefeller Center
+way,388436810,American Museum of Natural History
+node,667172141,Top of The Rock
+way,129835611,National September 11 Memorial & Museum
+way,265947358,Grand Central Terminal
+node,1912138148,Grand Central Terminal
+node,1912138145,Grand Central Terminal
+way,27459262,Ellis Island
+way,248774860,Tulsa
+node,3804352784,Norman
+node,357385866,Beavers Bend Resort Park
+way,24875051,Akershus Fortress
+way,28475470,Viking Ship Museum
+way,134403996,Norwegian Museum of Cultural History
+node,330331150,Vigeland Museum
+way,28476403,Kon-Tiki Museum
+way,360595435,Fram Museum
+way,128980495,Fram Museum
+way,4352046,Royal Palace
+way,201611261,Notre Dame de Paris
+relation,3262297,The Louvre
+way,226413508,Arc de Triomphe
+way,63178753,Musée d'Orsay
+way,415077613,Musée d'Orsay
+node,4533627787,Champs-Élysées
+relation,6438767,Montmartre
+way,23762981,Sacré-Cœur
+relation,3344870,Sainte-Chapelle
+way,128206209,Jardin du Luxembourg
+node,2038017580,Latin Quarter
+way,30736563,Art Gallery of Western Australia
+way,8046233,Perth Zoo
+way,36993405,Crown Perth
+node,33164509,Matilda Bay
+way,25271595,Independence Hall
+way,50189935,Franklin Institute
+way,28533972,Philadelphia Museum of Art
+way,320052082,Eastern State Penitentiary
+way,183620616,Barnes Foundation
+way,62202931,Benjamin Franklin Parkway
+way,12167194,Benjamin Franklin Parkway
+way,12167196,Benjamin Franklin Parkway
+way,195807753,Benjamin Franklin Parkway
+way,49916202,Please Touch Museum
+relation,4720912,Philadelphia City Hall
+node,367134672,Philadelphia City Hall
+way,25429525,Franklin Square
+way,37057925,Arizona Science Center
+relation,1983722,Heard Museum
+node,2334012138,Camelback Mountain
+way,184515789,Musical Instrument Museum
+relation,2048105,Phoenix Art Museum
+node,203908896,Ro Ho En
+way,27937322,Cathedral of Our Lady of the Assumption
+node,3017486370,Bureau d'Ethnologie
+way,35969760,Oregon Zoo
+way,130713767,Portland Japanese Garden
+way,73908289,Pittock Mansion
+way,32482549,Lan Su Chinese Garden
+way,52560713,Portland Children's Museum
+relation,1666862,Pioneer Courthouse Square
+way,130711718,Hoyt Arboretum
+way,130711715,Hoyt Arboretum
+way,144126497,Hoyt Arboretum
+way,130711717,Hoyt Arboretum
+way,130711716,Hoyt Arboretum
+way,130713808,Hoyt Arboretum
+way,130711719,Hoyt Arboretum
+node,357349103,The Grotto
+relation,3367914,St. Vitus Cathedral
+relation,422899,Vyšehrad
+node,4368910889,Vyšehrad
+way,8888301,Vyšehrad
+way,27124435,Municipal House
+relation,3312247,Prague Castle
+relation,3366641,Wenceslas Square
+node,3857510377,Petřín
+way,25795245,Perlan
+node,4420357589,The Sun Voyager
+node,1511563888,Icelandic Phallological Museum
+node,1264724303,Reykjavík 871±2
+relation,5820121,Tjörnin
+relation,5820120,Tjörnin
+way,26992692,Árbæjarsafn
+relation,5357403,Christ the Redeemer
+node,34582421,Sugarloaf Mountain
+relation,5516122,Ipanema
+node,1551149888,Corcovado
+node,3307945305,Corcovado
+relation,4587734,Maracanã
+way,288792009,Maracanã
+way,93259378,Botafogo
+way,40589074,National Museum of Saudi Arabia
+way,177667555,Al Faisaliyah Center
+way,334204101,Al Hokair Land
+node,315149553,Pantheon
+relation,3374342,Pantheon
+relation,1841080,Roman Forum
+way,23322002,Trevi Fountain
+way,134400816,Spanish Steps
+relation,450598,Piazza Navona
+node,1440405490,Galleria Borghese
+way,289426818,SeaWorld San Diego
+way,25965018,USS Midway Museum
+node,4238551589,Seaport Village
+way,31274621,San Diego Zoo
+way,40184734,Old Town San Diego State Historic Park
+way,40184735,Old Town San Diego State Historic Park
+way,40184733,Old Town San Diego State Historic Park
+way,40184736,Old Town San Diego State Historic Park
+relation,6173923,Cabrillo National Monument
+node,814679505,Point Loma
+way,31284612,Belmont Park
+way,39315120,Birch Aquarium
+way,24433344,Alcatraz Island
+node,265562462,Alcatraz Island
+way,199829618,Fisherman's Wharf
+way,25278818,Union Square
+node,3639535348,Chinatown
+way,199829618,Pier 39
+way,158602261,Golden Gate Park
+way,28695389,California Academy of Sciences
+node,621529017,Exploratorium
+way,402111597,Lombard Street
+way,142863669,Castillo San Cristóbal
+relation,3501975,La Fortaleza
+way,279416946,San Juan Marriott Resort & Stellaris Casino
+way,387748038,Casa Presidencial
+way,236331992,Basílica Santuario Nacional de Nuestra Señora de la Caridad del Cobre
+way,334682510,Parque zoológico de Santiago de Cuba
+way,39075566,Plaza de Marte
+node,606446547,Casa de Diego Velazquez
+way,39075239,Museo Emilio Bacardí Moreau
+relation,4049320,National Palace
+way,288636321,Parque Colon
+node,4501562857,Pinacoteca do Estado de São Paulo
+node,2112739849,Pinacoteca do Estado de São Paulo
+way,419922808,São Paulo Museum of Art
+way,348407156,São Paulo Cathedral
+way,155473557,Theatro Municipal
+way,297791653,Theatro Municipal
+way,51414740,Sala São Paulo
+way,363400641,Pike Place Market
+way,8097127,Woodland Park Zoo
+way,394955903,Pacific Science Center
+way,8097142,Woodland Park
+way,161587729,Chihuly Garden and Glass
+way,76145616,Lake Union
+relation,5729177,Safeco Field
+way,292961531,Ballard Locks
+way,75958524,Changdeokgung
+way,370286012,N Seoul Tower
+node,288169256,Namsan
+way,26281660,Lotte World
+way,229891123,War Memorial of Korea
+way,170199440,Gwanghwamun
+way,26658458,Deoksugung
+way,380067759,COEX Mall
+way,40036584,Yu Garden
+way,40778038,Oriental Pearl Tower
+node,4330496506,Nanjing Road
+way,40325255,Xintiandi
+node,769845266,Jade Buddha Temple
+way,10691100,Shanghai World Financial Center
+relation,2153738,People's Square
+way,376075961,Jin Mao Tower
+way,165792123,Shanghai Tower
+way,27288534,Vasa Museum
+way,377977591,Skansen
+node,2483228637,Skansen
+node,566172777,Skansen
+relation,34394,Stockholm Palace
+way,33275424,ABBA: The Museum
+node,868261113,Fotografiska
+node,29898032,Moderna Museet
+way,4230931,Skeppsholmen
+node,1425549937,Skeppsholmen
+way,205149952,Sydney Harbour Bridge
+relation,5729505,The Rocks
+node,25843272,Darling Harbour
+way,173244595,Bondi Beach
+way,4354532,Taronga Zoo
+relation,3744999,Royal Botanic Garden
+node,975007327,Port Jackson
+way,197801072,Sydney Tower
+way,40717424,Queen Victoria Building
+node,4404481089,Manly Beach
+way,4942687,Royal Ontario Museum
+way,198471666,Casa Loma
+way,62255416,Hockey Hall of Fame
+way,141693334,Art Gallery of Ontario
+way,197447638,Ripley's Aquarium of Canada
+node,475881469,Distillery District
+way,379296804,Distillery District
+way,24626769,St. Lawrence Market South
+node,540349856,Toronto Islands
+node,1048873262,Emperor Valley Zoo
+node,1821476689,Pigeon Point
+node,299560040,Englishman's Bay
+way,142065155,Maracas Beach
+way,96579810,Queen's Park Savannah
+node,1516494506,Fort King George
+way,60608401,Capilano Suspension Bridge
+way,58754861,Granville Island
+way,37084312,Science World
+way,58305151,Vancouver Aquarium
+way,456158488,Dr. Sun Yat-Sen Classical Chinese Garden
+way,223635729,Canada Place
+way,316008597,VanDusen Botanical Garden
+node,4215844490,H. R. MacMillan Space Centre
+relation,3898175,Hofburg
+way,212496461,St. Stephen's Cathedral
+way,97974754,Prater
+way,31313338,Belvedere
+relation,20165,Kunsthistorisches Museum
+way,8097595,Vienna State Opera
+way,8079437,Tiergarten Schönbrunn
+way,97979331,Wiener Riesenrad
+node,60438337,Albertina
+way,167109428,Warsaw Uprising Museum
+way,29702133,Royal Castle
+way,186141946,POLIN Museum of the History of Polish Jews
+way,339389366,Copernicus Science Centre
+way,72833763,Tomb of the Unknown Soldier
+way,8106732,Wilanów Palace
+node,331759259,Polish Army Museum
+node,1396431169,Museum of Broken Relationships
+node,4388477091,Museum of Broken Relationships
+way,295795141,Ban Jelačić Square
+relation,2639024,Gornji Grad–Medveščak
+way,30453995,Museum of Contemporary Art
+way,101182644,Zagreb Cathedral
+relation,1396624,Zagreb City Museum
+relation,3768127,Kunsthaus Zürich
+way,36916418,Grossmünster
+node,29971007,Üetliberg
+node,1262086033,Üetliberg
+way,89967877,Fraumünster
+node,451722224,Rietberg Museum
+way,24701951,St. Peter
+node,4295284933,St. Peter
