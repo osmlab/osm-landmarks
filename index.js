@@ -26,8 +26,14 @@ function getRestaurants(callback) {
     return getRows(file, callback);
 }
 
+function getPopular(callback) {
+    var file = path.join(directory, 'popular.csv');
+    return getRows(file, callback);
+}
+
 module.exports = {
     'getLakes': getLakes,
     'getAirports': getAirports,
-    'getRestaurants': getRestaurants
+    'getRestaurants': getRestaurants,
+    'getPopular': getPopular
 };
