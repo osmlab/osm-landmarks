@@ -1,6 +1,6 @@
 var csv = require('csv');
 var path = require('path');
-var fs = require('fs');
+var fs = require('graceful-fs');
 
 var directory = path.join(__dirname, 'osm-landmarks/');
 
