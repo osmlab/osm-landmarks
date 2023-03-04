@@ -19,7 +19,7 @@ if (!argv.wikidata) {
 function queryOverpass(wikidataID, restaurantName, lat, lon, callback) {
     // console.log(wikidataID);
     // wikidataID = 'Q5359767';
-    var query = fs.readFileSync(__dirname + '/overpass-query.ql').toString();
+    var query = fs.readFileSync(__dirname + '/overpass-query.overpassql').toString();
     query = query.replace(/lat/g, lat);
     query = query.replace(/lon/g, lon);
 
